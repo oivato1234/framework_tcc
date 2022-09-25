@@ -3,8 +3,9 @@
 namespace App\Database\Migrations;
 
 use CodeIgniter\Database\Migration;
+use Config\Migrations;
 
-class TCC4 extends Migration
+class Endereco extends Migrations
 {
     public function up()
     {

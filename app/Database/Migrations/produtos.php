@@ -5,50 +5,40 @@ namespace App\Database\Migrations;
 use CodeIgniter\Database\Migration;
 use Config\Migrations;
 
-class pecas extends Migrations
+class produtos extends Migrations
 {
     public function up()
     {
         $this->forge->addField([
-            'id_placa' => [
+
+            'id_produtos ' => [
             'type' => 'INT',
             'auto_increment' => true,
             'null' => false
             ],
-            'nome' => [
+            'nome_produto ' => [
             'type' => 'VARCHAR',
             'constraint' => 30,
             'null' => false
             ],
-            'caracteristica' => [
+            'especificações_produto ' => [
             'type' => 'VARCHAR',
             'constraint' => 300,
             'null' => false
             ],
-            'especificacao' => [
-            'type' => 'VARCHAR',
-            'constraint' => 300,
-            'null' => false
-            ],
-            'chipset' => [
+            'certificações_produto ' => [
             'type' => 'VARCHAR',
             'constraint' => 50,
             'null' => false
             ],
-            'memoria' => [
-            'type' => 'VARCHAR',
-            'constraint' => 10,
-            'null' => false
-            ],
-            'bios' => [
+            'caracteristicas_produto' => [
                 'type' => 'VARCHAR',
-                'constraint' => 40,
+                'constraint' => 300,
                 'null' => false
-                ]
+                ],
+
     
-            ]);
-    
-            $this->forge->addPrimaryKey('id_end');    }
+            ]);    }
 
     public function down()
     {

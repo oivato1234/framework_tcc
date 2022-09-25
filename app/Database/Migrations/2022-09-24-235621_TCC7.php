@@ -3,8 +3,9 @@
 namespace App\Database\Migrations;
 
 use CodeIgniter\Database\Migration;
+use Config\Migrations;
 
-class TCC7 extends Migration
+class pecas extends Migrations
 {
     public function up()
     {
