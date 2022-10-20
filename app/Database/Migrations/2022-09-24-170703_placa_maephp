@@ -48,7 +48,10 @@ class placa_mae extends Migrations
     
             ]);
     
-            $this->forge->addPrimaryKey('id_end');    }
+            $this->forge->addPrimaryKey('id_end');
+            $this->forge->createTable('Endereco');
+        
+        }
 
     public function down()
     {

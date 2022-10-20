@@ -34,7 +34,10 @@ class armazenamento extends Migrations
 
             ]);
     
-            $this->forge->addPrimaryKey('id_armazenamento');    }
+            $this->forge->addPrimaryKey('id_armazenamento');
+    
+            $this->forge->createTable('Armazenamento');
+        }
 
     public function down()
     {

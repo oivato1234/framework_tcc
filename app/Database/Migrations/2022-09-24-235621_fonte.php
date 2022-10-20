@@ -50,6 +50,8 @@ class fonte extends Migrations
             ]);
     
             $this->forge->addPrimaryKey('id_fonte');
+            $this->forge->createTable('Fonte');
+            
     }
 
     public function down()
