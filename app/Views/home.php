@@ -27,7 +27,6 @@ $this->include('menu');
 $this->endsection();
 $this->section('conteudo');
 $this->endsection();
-echo $mensagem;
 ?>
 </body>
 </html>
