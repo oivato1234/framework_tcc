@@ -11,7 +11,7 @@ class produtos extends Migrations
     {
         $this->forge->addField([
 
-            'id_produtos ' => [
+            'id_produto ' => [
             'type' => 'INT',
             'auto_increment' => true,
             'null' => false
@@ -38,7 +38,10 @@ class produtos extends Migrations
                 ],
 
     
-            ]);    }
+            ]);
+            $this->forge->addPrimaryKey('id_produto');
+            $this->forge->createTable('Produto');
+        }
 
     public function down()
     {

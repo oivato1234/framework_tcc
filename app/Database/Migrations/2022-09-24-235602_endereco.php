@@ -44,6 +44,7 @@ class Endereco extends Migrations
             ]);
     
             $this->forge->addPrimaryKey('id_end');
+            $this->forge->createTable('PlacaMae');
     }
 
     public function down()
