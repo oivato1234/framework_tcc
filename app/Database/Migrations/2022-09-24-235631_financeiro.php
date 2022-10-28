@@ -32,7 +32,7 @@ class financeiro extends Migrations
     
             $this->forge->addPrimaryKey('id_orcamento');
     
-            $this->forge->createTable('Financeiro');
+            $this->forge->createTable('Orcamento');
         }
 
     public function down()
