@@ -2,7 +2,6 @@
      $this->extend('layout/Layout');
         // include 'bancocadastro.php';
         // include "configbanco.php";
-     $this->endsection();
      $this->section('conteudo');          
 ?>
  <a class= "voltar" href="home.php"><b>Voltar</b></a>

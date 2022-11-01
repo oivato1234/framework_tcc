@@ -1,7 +1,7 @@
 <?php
 $this->extend('Layout');
-$this->section('menu');
-$this->include('menu');
+$this->section('home');
+$this->include('home');
 $this->endsection();
 $this->section('conteudo');
 
