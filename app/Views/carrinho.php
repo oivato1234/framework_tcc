@@ -11,7 +11,7 @@
 </head>
 <body>
 <div class="title">
-           <h2>Pc game intel</h2>
+           <h2>Pc Gamer Intel</h2>
            <img src="imgs/carrinho.png"/>   
           </div>
           <a class= "voltar" href="menu.php"><b>Voltar</b></a>
