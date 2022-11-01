@@ -136,7 +136,7 @@ padding: 8px;
                 <br>
                 <div class="inputBox">
                     <input type="email" name="email" id="email" class="inputUser" required>
-                    <label for="email" class="labelInput">Email</label>
+                    <label for="email" class="labelInput">E-mail</label>
                 </div>
                 <br>
                 <div class="inputBox">

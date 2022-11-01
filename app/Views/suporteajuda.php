@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Suporte ajuda</title>
+    <title>Suporte Ajuda</title>
 </head>
 <body>
   <?php
@@ -87,14 +87,14 @@
     </div>
   </div>
 </div><br><br>
-<h2 class="texto1">Memória ram</h2>
+<h2 class="texto1">Memória Ram</h2>
   <p class="texto1">Memória RAM: é a memória de acesso rápido que armazena, de forma temporária, informações que precisem ser acessadas de maneira rápida pelo sistema operacional. Isso inclui arquivos do próprio sistema. Um detalhe importante é que a memória RAM perde as informações quando deixa de ser energizada, ou seja, quando o computador é desligado, mesmo que de forma rápida. </p>
 
   <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="pecas/mem_ram.png" class="d-block w-25"> <br><br><br><br>
-      <p class="texto">Como é uma mémoria ram com dissipador de calor</p>
+      <p class="texto">Como é uma memória ram com dissipador de calor</p>
       <p class="texto">Dissipadores de calor são acessórios usados em variados tipos de equipamentos eletrônicos. A principal função dos materiais é absorver o calor que é comumente originado pelo processador da máquina.</p> <p class="texto">O alumínio e o cobre, alguns dos principais metais usados neste tipo de acessório, possuem como principal vantagem oferecer uma dissipação altamente eficiente da temperatura do equipamento.</p> <p class="texto">Faz todo o processo de exaustão e elimina a alta temperatura produzida pelos chips e processadores, componentes de diferentes tipos de equipamentos eletrônicos.</p>
     </div>
   </div>
@@ -103,7 +103,7 @@
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="pecas/ram_sem_capa.png" class="d-block w-25"><br><br><br><br>
-      <p class="texto">Como é uma mémoria ram sem dissipador de calor</p>
+      <p class="texto">Como é uma memória ram sem dissipador de calor</p>
     </div>
   </div>
 </div>
@@ -111,7 +111,7 @@
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="pecas/slot_ram.png" class="d-block w-25"><br><br><br><br>
-      <p class="texto">Slot de uma mémoria ram</p>
+      <p class="texto">Slot de uma memória ram</p>
     </div>
   </div>
 </div>
@@ -119,7 +119,7 @@
   <div class="carousel-inner">
     <div class="carousel-item active"> 
       <img src="pecas/mem_ram_plc_mae.png" class="d-block w-25"><br><br><br><br>
-      <p class="texto">Encaixe da mémoria ram na placa mãe</p>
+      <p class="texto">Encaixe da memória ram na placa mãe</p>
     </div>
   </div>
 </div><br><br>
