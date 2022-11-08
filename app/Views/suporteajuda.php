@@ -7,11 +7,6 @@
     <title>Suporte Ajuda</title>
 </head>
 <body>
-  <?php
-  include "bootstrap.php";
-  include "css_pecas.php"
-  
-  ?>
 <a class= "voltar" href="/tcc/menu.php"><b>Voltar</b></a><br><br>
   <h2 class="texto1">Placa Mãe</h2>
   <p class="texto1">Placa-mãe: é a principal placa do computador e, por isso, interliga todos os outros componentes para fazer a máquina funcionar. Assim, permite a interligação lógica e física entre memória RAM, processador, HD, placa de vídeo, drive óptico, etc. Esse trabalho é feito por controladores responsáveis pela comunicação dos dispositivos e slot’s nos quais cada um se encaixa. </p><br>
