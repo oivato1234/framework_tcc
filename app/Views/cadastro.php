@@ -1,24 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tela de Cadastro</title>
-    <style>
-
-
-
-    </style>
-</head>
 <body>
     <?php
+
     include "configbanco.php";
     include "bancocadastro.php";
     include "script.php";
     //include "bootstrap.php";
     //include "botao.php";
-
+    $this->extend('Layout/cadastro')
+    
     ?>
 <a class= "voltar" href="home.php"><b>Voltar</b></a>
 <div class="box00">

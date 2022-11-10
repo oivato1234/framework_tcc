@@ -3,7 +3,7 @@
      // include 'bancocadastro.php';
      // include "configbanco.php";
      $this->extend('layout/Layout');
-     //$this->endsection();
+    // $this->endsection();
      $this->section('conteudo');          
 ?>
  <a class= "voltar" href="home.php"><b>Voltar</b></a>

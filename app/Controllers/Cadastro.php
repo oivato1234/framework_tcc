@@ -6,8 +6,8 @@ use App\Controllers\BaseController;
 
 class Cadastro extends BaseController
 {
-    public function index()
+    public function cadastro()
     {
-        echo view ('cadastro');
+        return view ('Cadastro');
     }
 }
