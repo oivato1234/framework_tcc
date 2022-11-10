@@ -10,13 +10,13 @@
     <title>Suporte Ajuda</title>
 </head>
 <body>
-<a class= "voltar" href="/tcc/menu.php"><b>Voltar</b></a><br><br>
+<a class="voltar" href="/menu.php">Voltar</a><br><br>
   <h2 class="texto1">Placa Mãe</h2>
   <p class="texto1">Placa-mãe: é a principal placa do computador e, por isso, interliga todos os outros componentes para fazer a máquina funcionar. Assim, permite a interligação lógica e física entre memória RAM, processador, HD, placa de vídeo, drive óptico, etc. Esse trabalho é feito por controladores responsáveis pela comunicação dos dispositivos e slot’s nos quais cada um se encaixa. </p><br>
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="public/pecas/placa-mae.png" class="d-block w-25"> <br><br>
+      <img src="/pecas/Placa-Mae.png" class="d-block w-25"> <br><br>
       <p class="texto">Placa Mãe e onde vai seus respectivos componentes</p>
     </div>
   </div>
@@ -27,7 +27,7 @@
   <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="pecas/processador.png" class="d-block w-25"> <br><br><br><br>
+      <img src="/pecas/processador.png" class="d-block w-25"> <br><br><br><br>
       <p class="texto">Como é um processador</p>
     </div>
   </div>
@@ -35,7 +35,7 @@
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="pecas/proc_plc_mae.jpg" class="d-block w-25"><br><br><br><br>
+      <img src="/pecas/proc_plc_mae.jpg" class="d-block w-25"><br><br><br><br>
       <p class="texto">Soquete do processador de uma placa mãe</p>
     </div>
   </div>
@@ -43,7 +43,7 @@
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active"> 
-      <img src="pecas/embutido.png" class="d-block w-25"><br><br><br><br>
+      <img src="/pecas/embutido.png" class="d-block w-25"><br><br><br><br>
       <p class="texto">Encaixe do processador no soquete da placa mãe</p>
     </div>
   </div>
@@ -53,7 +53,7 @@
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="pecas/plc_video.png" class="d-block w-25"> <br><br><br><br>
+      <img src="/pecas/plc_video.png" class="d-block w-25"> <br><br><br><br>
       <p class="texto">Como é uma placa de vídeo</p>
     </div>
   </div>
@@ -61,7 +61,7 @@
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="pecas/slot_plc_video.png" class="d-block w-25"><br><br><br><br>
+      <img src="/pecas/slot_plc_video.png" class="d-block w-25"><br><br><br><br>
       <p class="texto">Slot para encaixe de uma placa de vídeo</p>
     </div>
   </div>
@@ -69,7 +69,7 @@
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="pecas/plc_na_plc_mae.png" class="d-block w-25"><br><br><br><br>
+      <img src="/pecas/plc_na_plc_mae.png" class="d-block w-25"><br><br><br><br>
       <p class="texto">Encaixe da placa de vídeo na placa mãe</p>
     </div>
   </div>
@@ -79,7 +79,7 @@
   <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="pecas/gpu_int_ded.png" class="d-block w-25">
+      <img src="/pecas/gpu_int_ded.png" class="d-block w-25">
       <p class="texto">Uma placa de vídeo integrada é aquela que fica “embutida” no processador. É mais simples e serve para tarefas mais básicas, pois compartilha memória RAM com todo o sistema.</p>
       <p class="texto">Uma placa de vídeo dedicada é um componente separado do processador. É mais avançada e serve para tarefas mais complexas, pois possui memória exclusiva (dedicada) e maior poder de processamento.</p>
     </div>
@@ -91,7 +91,7 @@
   <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="pecas/mem_ram.png" class="d-block w-25"> <br><br><br><br>
+      <img src="/pecas/mem_ram.png" class="d-block w-25"> <br><br><br><br>
       <p class="texto">Como é uma memória ram com dissipador de calor</p>
       <p class="texto">Dissipadores de calor são acessórios usados em variados tipos de equipamentos eletrônicos. A principal função dos materiais é absorver o calor que é comumente originado pelo processador da máquina.</p> <p class="texto">O alumínio e o cobre, alguns dos principais metais usados neste tipo de acessório, possuem como principal vantagem oferecer uma dissipação altamente eficiente da temperatura do equipamento.</p> <p class="texto">Faz todo o processo de exaustão e elimina a alta temperatura produzida pelos chips e processadores, componentes de diferentes tipos de equipamentos eletrônicos.</p>
     </div>
@@ -100,7 +100,7 @@
   <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="pecas/ram_sem_capa.png" class="d-block w-25"><br><br><br><br>
+      <img src="/pecas/ram_sem_capa.png" class="d-block w-25"><br><br><br><br>
       <p class="texto">Como é uma memória ram sem dissipador de calor</p>
     </div>
   </div>
@@ -108,7 +108,7 @@
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="pecas/slot_ram.png" class="d-block w-25"><br><br><br><br>
+      <img src="/pecas/slot_ram.png" class="d-block w-25"><br><br><br><br>
       <p class="texto">Slot de uma memória ram</p>
     </div>
   </div>
@@ -116,7 +116,7 @@
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active"> 
-      <img src="pecas/mem_ram_plc_mae.png" class="d-block w-25"><br><br><br><br>
+      <img src="/pecas/mem_ram_plc_mae.png" class="d-block w-25"><br><br><br><br>
       <p class="texto">Encaixe da memória ram na placa mãe</p>
     </div>
   </div>
@@ -127,14 +127,14 @@
   <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="pecas/hd.png" class="d-block w-25"> <br><br><br><br>
+      <img src="/pecas/hd.png" class="d-block w-25"> <br><br><br><br>
       <p class="texto">Como é um Armazenamento HD</p>
   </div>
 </div>
   <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="pecas/hd_disc.png" class="d-block w-25"><br><br><br><br>
+      <img src="/pecas/hd_disc.png" class="d-block w-25"><br><br><br><br>
       <p class="texto">HD por dentro</p>
     </div>
   </div>
@@ -142,7 +142,7 @@
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="pecas/hd_entrada.png" class="d-block w-25"><br><br><br><br>
+      <img src="/pecas/hd_entrada.png" class="d-block w-25"><br><br><br><br>
       <p class="texto">Conectores HD</p>
     </div>
   </div>
@@ -150,7 +150,7 @@
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active"> 
-      <img src="pecas/sata.png" class="d-block w-25"><br><br><br><br>
+      <img src="/pecas/sata.png" class="d-block w-25"><br><br><br><br>
       <p class="texto">Conexão HD com a placa mãe</p>
     </div>
   </div>
@@ -161,14 +161,14 @@
   <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="pecas/ssd.png" class="d-block w-25"> <br><br><br><br>
+      <img src="/pecas/ssd.png" class="d-block w-25"> <br><br><br><br>
       <p class="texto">Armazenamento SSD Sata</p>
   </div>
 </div>
   <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="pecas/ssd_nvme.png" class="d-block w-25"><br><br><br><br>
+      <img src="/pecas/ssd_nvme.png" class="d-block w-25"><br><br><br><br>
       <p class="texto">Armazenamento SSD NVme</p>
     </div>
   </div>
@@ -176,7 +176,7 @@
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="pecas/conec_ssd.png" class="d-block w-25"><br><br><br><br>
+      <img src="/pecas/conec_ssd.png" class="d-block w-25"><br><br><br><br>
       <p class="texto">Conexão SSD com a placa mãe</p>
     </div>
   </div>
@@ -184,7 +184,7 @@
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active"> 
-      <img src="pecas/conec_nvme.png" class="d-block w-25"><br><br><br><br>
+      <img src="/pecas/conec_nvme.png" class="d-block w-25"><br><br><br><br>
       <p class="texto">SSD NVme é conectado diretamente na placa, diferente do SSD sata que é conectado por cabo</p>
     </div>
   </div>
@@ -192,7 +192,7 @@
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active"> 
-      <img src="pecas/enc_nvme.png" class="d-block w-25"><br><br><br><br>
+      <img src="/pecas/enc_nvme.png" class="d-block w-25"><br><br><br><br>
       <p class="texto">SSD NVme conectado na placa</p>
     </div>
   </div>
@@ -203,7 +203,7 @@
   <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="pecas/gabinete.png" class="d-block w-25"> <br><br><br><br>
+      <img src="/pecas/gabinete.png" class="d-block w-25"> <br><br><br><br>
       <p class="texto">Como é um Gabinete</p>
   </div>
 </div><br><br>
@@ -213,7 +213,7 @@
   <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="pecas/fonte.png" class="d-block w-25"> <br><br><br><br>
+      <img src="/pecas/fonte.png" class="d-block w-25"> <br><br><br><br>
       <p class="texto">Como é uma fonte</p>
   </div>
 </div><br><br>
@@ -223,21 +223,21 @@
   <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="pecas/cooler.png" class="d-block w-25"> <br><br><br><br><br><br>
+      <img src="/pecas/cooler.png" class="d-block w-25"> <br><br><br><br><br><br>
       <p class="texto">Como é um cooler</p>
   </div>
 </div>
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="pecas/enc_cooler.png" class="d-block w-25"> <br><br><br><br><br><br>
+      <img src="/pecas/enc_cooler.png" class="d-block w-25"> <br><br><br><br><br><br>
       <p class="texto">Encaixe do cooler na placa mãe</p>
   </div>
 </div>
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="pecas/cooler_plc_mae.png" class="d-block w-25"> <br><br><br><br><br><br>
+      <img src="/pecas/cooler_plc_mae.png" class="d-block w-25"> <br><br><br><br><br><br>
       <p class="texto">Cooler encaixado na placa mãe</p>
   </div>
 </div>
